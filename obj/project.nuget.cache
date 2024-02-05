@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4YRnO9UdyYQZBAPRtMqhtubAgN22js3INgbFwelEw4OMjX//ssUS6kEDdcCmlJlApKof2VKFj0/8NXZnRRVFdg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\F-TCP-SM\\F# test.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Misha\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,54 @@
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\F# test.exe
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\F# test.deps.json
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\F# test.runtimeconfig.json
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\F# test.dll
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\F# test.pdb
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Миша\source\repos\F# test\F# test\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Миша\source\repos\F# test\F# test\obj\Debug\net6.0\F# test.fsproj.AssemblyReference.cache
+C:\Users\Миша\source\repos\F# test\F# test\obj\Debug\net6.0\F# test.AssemblyInfoInputs.cache
+C:\Users\Миша\source\repos\F# test\F# test\obj\Debug\net6.0\F# test.AssemblyInfo.fs
+C:\Users\Миша\source\repos\F# test\F# test\obj\Debug\net6.0\F# test.fsproj.CoreCompileInputs.cache
+C:\Users\Миша\source\repos\F# test\F# test\obj\Debug\net6.0\F# test.fsproj.CopyComplete
+C:\Users\Миша\source\repos\F# test\F# test\obj\Debug\net6.0\F# test.dll
+C:\Users\Миша\source\repos\F# test\F# test\obj\Debug\net6.0\F# test.pdb
+C:\Users\Миша\source\repos\F# test\F# test\obj\Debug\net6.0\F# test.genruntimeconfig.cache
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\F# test.exe
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\F# test.deps.json
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\F# test.runtimeconfig.json
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\F# test.dll
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\F# test.pdb
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\FSharp.Core.dll
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Projects\F-TCP-SM\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Projects\F-TCP-SM\obj\Debug\net6.0\F# test.fsproj.AssemblyReference.cache
+C:\Projects\F-TCP-SM\obj\Debug\net6.0\F# test.AssemblyInfoInputs.cache
+C:\Projects\F-TCP-SM\obj\Debug\net6.0\F# test.AssemblyInfo.fs
+C:\Projects\F-TCP-SM\obj\Debug\net6.0\F# test.fsproj.CoreCompileInputs.cache
+C:\Projects\F-TCP-SM\obj\Debug\net6.0\F# test.fsproj.CopyComplete
+C:\Projects\F-TCP-SM\obj\Debug\net6.0\F# test.dll
+C:\Projects\F-TCP-SM\obj\Debug\net6.0\F# test.pdb
+C:\Projects\F-TCP-SM\obj\Debug\net6.0\F# test.genruntimeconfig.cache
